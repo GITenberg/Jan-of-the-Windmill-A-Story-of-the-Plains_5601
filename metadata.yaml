@@ -1,5 +1,5 @@
 _repo: Jan-of-the-Windmill-A-Story-of-the-Plains_5601
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 5601-h/images/coverb.jpg
@@ -31,5 +31,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Country life -- England -- Juvenile fiction'
 - !lcc 'PZ'
+- GITenberg
 title: 'Jan of the Windmill: A Story of the Plains'
 url: http://www.gutenberg.org/ebooks/5601
